@@ -30,6 +30,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-03-08-파이썬-컴프리헨션-및-필터-성능-비교](python/2026-03-08-파이썬-컴프리헨션-및-필터-성능-비교.md)
+
 - [2026-02-11-파이썬-리스트-컴프리헨션-가이드라인](python/2026-02-11-파이썬-리스트-컴프리헨션-가이드라인.md)
     <!-- TODO: 여기에 인덱스를 추가하세요 -->
   </details>
